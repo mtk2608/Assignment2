@@ -1,9 +1,14 @@
-﻿namespace Assignment2
-{
-    internal class Program
-    {
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-        public static void Main(string[] args)
+namespace Assignment2
+{
+    internal class ExampleSolution
+    {
+        //public static void Main(string[] args)
         {
             static string ConvertNumberToWords(int number)
             {
@@ -72,7 +77,7 @@
 
             number = 890;
             words = ConvertNumberToWords(number);
-            Console.WriteLine(words); // Output: Eight Hundred Ninety
+            Console.WriteLine(words); // Output: Eight Hundred Ninety//
 
         }
     }
