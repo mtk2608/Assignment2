@@ -8,7 +8,7 @@ namespace Assignment2
 {
     internal class ExampleSolution
     {
-        //public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             static string ConvertNumberToWords(int number)
             {
@@ -77,7 +77,7 @@ namespace Assignment2
 
             number = 890;
             words = ConvertNumberToWords(number);
-            Console.WriteLine(words); // Output: Eight Hundred Ninety//
+            Console.WriteLine(words); // Output: Eight Hundred Ninety*/
 
         }
     }
